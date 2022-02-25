@@ -9,7 +9,7 @@ links:
   - label: Email
     url: "cdang@uchicago.edu"
 output:
-  postcards::jolla_blue
+  postcards::jolla
 ---
  
 As being a Master's student at the University of Chicago, I am currently a Psychology majored student and working at the Social Cognitive Neuroscience Lab. Outside of the academia, I am super interested in Taekwondo, Japanese history and culture, and Martin Scorsese and Christopher Nolan's films
